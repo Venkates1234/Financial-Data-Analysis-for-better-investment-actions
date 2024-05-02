@@ -60,6 +60,20 @@ The value at risk (VaR) of a stock measures the potential loss in value of an in
 6. Predicting Future Stock Behavior Using LSTM
 To predict the future stock price of a particular stock, such as APPLE inc, we can use a Long Short Term Memory (LSTM) neural network. LSTM is a type of recurrent neural network (RNN) that is well-suited for sequence prediction tasks, such as predicting future stock prices based on past stock data.
 
+## Stock Market Data Analysis
+
+Here, you will discover and explore stock market data. Specifically, you will learn:
+
+1. How to load stock market data from the Yahoo Finance website using yfinance.
+2. How to explore and visualize time-series data using Pandas, Matplotlib, and Seaborn.
+3. How to measure the correlation between stocks.
+4. How to measure the risk of investing in a particular stock.
+5. If you have any questions, feel free to ask in the comments below, and I will do my best to answer.
+
+References
+Investopedia - Correlation
+Jose Portilla Udemy Course: Learning Python for Data Analysis and Visualization
+
 ## Contributors
 
 - Venkateswarlu.N 
